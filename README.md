@@ -49,11 +49,7 @@ Simon Walker is a technology entrepreneur and AI strategist leading Drox Dynamic
 
  
 
- <a href="https://www.linkedin.com/in/dean-simon-92b69830/">
  
- <img border="0" alt="Hrugved's LinkedIn" src="https://img.icons8.com/doodle/40/000000/linkedin--v2.png"/>
- </a>
-
  <a href="https://x.com/droxdynamics">
  <img border="0" alt="Hrugvedtwts" src="https://img.icons8.com/nolan/40/twitter.png"/>
  </a>
